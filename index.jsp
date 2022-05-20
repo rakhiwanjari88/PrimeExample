@@ -2,7 +2,7 @@
    <head><title>Hello World</title></head>
    
    <body>
-      Hello World!<br/>
+      Hello World! Welcome to my Place!<br/>
       <%
          out.println("Your IP address is " + request.getRemoteAddr());
       %>
